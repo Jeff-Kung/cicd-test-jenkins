@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<htmllllll>
+<html>
 <head>
   <meta charset="utf-8">
   <title>BJS CodeDeploySample</title>
@@ -47,4 +47,4 @@
     <p>danrongm@amazon.com</a>.</p>
   </div>    
 </body>
-</html>
+</html></html></html></html></html></html></html></html></html></html></html></html></html>
