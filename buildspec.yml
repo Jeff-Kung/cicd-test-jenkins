@@ -4,8 +4,13 @@ phases:
   build:
     commands:
       - echo Build started on `date`
-      - echo Compiling the Go code...
-      - go build index.php
+      - mvn test 
   post_build:
     commands:
       - echo Build completed on `date`
+      - mvn package
+artifacts:
+  files:
+    - index.php
+    - appspec.yml
+  discard-paths: yes
