@@ -5,7 +5,7 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Compiling the Go code...
-      - go build hello.zip
+      - go build index.php
   post_build:
     commands:
       - echo Build completed on `date`
