@@ -26,7 +26,7 @@
 </head>
 <body>
   <div align="center">
-    <h1>I finally made it - V9</h1>
+    <h1>I finally made it - V10</h1>
     <h2>Github + ALB + CodeDeploy + Jenkins</h2> 
     <h2>AWS BJS CodeDeploy Demo</h2>
   </div>
