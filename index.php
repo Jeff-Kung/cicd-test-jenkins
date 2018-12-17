@@ -26,9 +26,9 @@
 </head>
 <body>
   <div align="center">
-    <h1>I finally made it - V12</h1>
-    <h2>Github + ALB + CodeDeploy + Jenkins</h2> 
-    <h2>AWS BJS CodeDeploy Demo</h2>
+    <h1>I finally made it - V13</h1>
+    <h2>Github + CodePipeline + CodeBuild +CodeDeploy</h2> 
+    <h2>AWS Codepipeline Demo</h2>
   </div>
   </br>
   <div align="center">
