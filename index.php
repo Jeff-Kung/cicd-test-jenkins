@@ -28,7 +28,7 @@
   <div align="center">
     <h1>Demo for MSP</h1>
     <h2>This is how CICD workds</h2> 
-    <h2>AWS Code PipeLine Demo</h2>
+    <h2>AWS Code PipeLine is not easy</h2>
   </div>
   </br>
   <div align="center">
