@@ -26,9 +26,9 @@
 </head>
 <body>
   <div align="center">
-    <h1>Demo for Cathay Financial Holdings</h1>
-    <h2>This is how Load Balancer workds</h2> 
-    <h2>AWS Load Balancer Demo</h2>
+    <h1>Demo for MSP</h1>
+    <h2>This is how CICD workds</h2> 
+    <h2>AWS Code PipeLine Demo</h2>
   </div>
   </br>
   <div align="center">
